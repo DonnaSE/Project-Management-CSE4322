@@ -1,0 +1,18 @@
+
+
+
+What is ESA? (fr Britannica)
+European Space Agency (ESA) is European space and space-technology research organization founded in 1975 from the merger of the European Launcher Development Organisation (ELDO) and the European Space Research Organisation (ESRO), both established in 1964. Headquarters of the agency are in Paris. Members include Austria, Belgium, the Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland, Italy, Luxembourg, the Netherlands, Norway, Poland, Portugal, Romania, Spain, Sweden, Switzerland, and the United Kingdom. Slovenia is an associate member. Cooperative agreements have been signed by various countries, including Canada (1981), which participate in some ESA projects. 
+
+ESA has cooperated with the U.S. National Aeronautics and Space Administration (NASA) on many projects. ESA developed the Ulysses spacecraft (launched 1990) to explore the Sun’s polar regions and the Ariane series of launch vehicles.
+
+
+
+description of Ariane 5
+
+In 1985 the European Space Agency, ESA, decided to develop Ariane 5 with a new design based on a cryogenically fueled first stage, flanked by two large solid-fuel boosters, and having a second stage fueled by monomethylhydrazine with nitrogen peroxide as the oxidizer. A strong impetus for developing Ariane 5 was the ESA’s ambition to launch a manned space glider named Hermes. However, the Hermes project was canceled in 1992. Since then, Ariane 5 has launched only unmanned satellites.
+
+
+With a much more powerful upper stage than previous Ariane models, the Ariane 5 is capable of carrying a 10,500-kg (23,100-pound) satellite to geostationary orbit. The first test launch of the Ariane 5, in June 1996, was a spectacular failure, but in subsequent years the vehicle operated reliably. Since the Ariane 4 was retired from service in 2003, all ESA launches have used Ariane 5, and there has been a continuing effort to lower its costs and improve its reliability and performance, particularly its ability to launch two communications satellites to geostationary orbit. The Ariane 5 ECA version can launch two satellites with a combined weight of 9,600 kg (21,000 pounds) to that orbit. The Ariane 5 has achieved 89 percent reliability.
+
+
